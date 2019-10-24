@@ -1,0 +1,9 @@
+1.s="Hello a nace DAY"
+2.print(s)
+3.print(s.upper())
+4.print(s.lower())
+5.print(s.capitalize())
+6.print(s.title())
+7.print(s.swapcase())
+8.print(s.strip())
+
